@@ -18,6 +18,7 @@
 #include <iomanip>
 #include <iostream>
 #include <ostream>
+#include <numeric>
 #include <stdlib.h>
 #include <vector>
 #include <glog/logging.h>
